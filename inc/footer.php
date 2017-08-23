@@ -24,7 +24,7 @@
 
             <ul class="copyright">
                <li>Copyright &copy; 2017 </li> 
-               <li>Design by <a href="mypage/index.html">	Jaswan26</a></li>               
+               <li>Design by <a href="mypage/index.html">	E-ware Team</a></li>               
             </ul>
 
          </div>
